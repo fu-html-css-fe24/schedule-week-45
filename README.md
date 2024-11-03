@@ -24,7 +24,7 @@ Under onsdagen kommer vi att ta ett litet break från alla nya intryck och istä
 
 
 ### Lektionsrepon
-* [4 nov, Repetitioon och Responsivitet](https://github.com/fu-html-css-fe24/lecture-4-nov)
+* [4 nov, Repetition och Responsivitet](https://github.com/fu-html-css-fe24/lecture-4-nov)
 
 
 ### Filmer
