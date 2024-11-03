@@ -18,16 +18,19 @@ Under onsdagen kommer vi att ta ett litet break från alla nya intryck och istä
 ## Resurser
 
 ### Presentationer
-
+* [4 nov, Responivitet]()
 
 ### Inspelade föreläsningar
 
 
 ### Lektionsrepon
-* [4 nov, Repetitioon och Responsivitet]()
+* [4 nov, Repetitioon och Responsivitet](https://github.com/fu-html-css-fe24/lecture-4-nov)
 
 
 ### Filmer
+* [Learn CSS Media Query In 7 Minutes](https://www.youtube.com/watch?v=yU7jJ3NbPdA)
+* [Master Media Queries And Responsive CSS Web Design Like a Chameleon!](https://www.youtube.com/watch?v=K24lUqcT0Ms)
+* [A practical guide to responsive web design](https://www.youtube.com/watch?v=x4u1yp3Msao&t=60s)
 
   
 ### Länkar
@@ -37,7 +40,8 @@ Under onsdagen kommer vi att ta ett litet break från alla nya intryck och istä
 
 
 ### Övningar
-
+* [Responsive Design Bootcamp](https://github.com/fu-html-css-fe24/exercise-css-responsive-design-bootcamp)
+* [Media Queries Bootcamp](https://github.com/fu-html-css-fe24/exercise-css-media-queries-bootcamp)
 
 
 
