@@ -18,7 +18,7 @@ Under onsdagen kommer vi att ta ett litet break från alla nya intryck och istä
 ## Resurser
 
 ### Presentationer
-* [4 nov, Responivitet](https://docs.google.com/presentation/d/1_5S8nETWNWB5FNe6Cr1eH99WSF3uK05L/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [4 nov, Responsivitet](https://docs.google.com/presentation/d/1_5S8nETWNWB5FNe6Cr1eH99WSF3uK05L/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
