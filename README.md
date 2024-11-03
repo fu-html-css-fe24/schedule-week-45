@@ -1,11 +1,12 @@
-# Schema, vecka 44
+# Schema, vecka 45
 ###### HTML & CSS, vecka 4 av 8
 
 ## Introduktion
 
-Under denna tredje kursveckan kommer vi forstätta  vårt arbete med layout, och nu har turen kommit till den andra av de två stora layout-drakarna: CSS Grid. Vi kommer bland annat att lära oss hur vi skapar upp och definierar våra grids, men även hur vi sedan går till väga för att placera ut föremål inuti dem.
+Under denna sista vecka innan gruppexaminationen kommer vi att kika på någonting som kallas för responsivitet, alltså hur vi kan skapa en webbsida som fungerar över flera olika skärmstorlekar. Vi kommer dels använa titta på hur generell god programmering kan skapa responsivitet till en viss grad, men även hur vi kan använda oss av så kallade media queries för att specialanpassa vår styling baserat på skärmstorlek.
 
-Under veckans andra del kommer vi att hoppa över till att titta på form- och table-elementen, för att lära oss hur de ser ut och fungerar, samt hur vi gör för att styla dem.
+Under onsdagen kommer vi att ta ett litet break från alla nya intryck och istället repetera det vi lärt oss hittills. Förslag på saker att repetera mottages tacksamt!
+
 
 ## Mål för veckan:
 1. Förstå vad responsivitet innebär
