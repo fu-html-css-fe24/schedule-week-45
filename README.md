@@ -21,7 +21,8 @@ Under onsdagen kommer vi att ta ett litet break från alla nya intryck och istä
 * [4 nov, Responsivitet](https://docs.google.com/presentation/d/1_5S8nETWNWB5FNe6Cr1eH99WSF3uK05L/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
-
+* [4 nov, Rep. Poster Shop](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ETNCMDCJUylKrs7R3-AA6c4B3u8lyUK98MhOOE3Lm3M9Wg?e=NbNlVf)
+* [4 nov, Responsivitet](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ESkmksI1t8NCpnhYPVt61fEB36dv-mCKYe233ZSJNC2lRg?e=PVNiUf)
 
 ### Lektionsrepon
 * [4 nov, Repetition och Responsivitet](https://github.com/fu-html-css-fe24/lecture-4-nov)
